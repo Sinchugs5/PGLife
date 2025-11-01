@@ -113,12 +113,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For setup assistance, watch our tutorial video: https://youtu.be/A04U_LK6IkU?si=x9UDf096ZkvunBRo
+
 
 ## Author
 
-Developed by Nemesis9450
+Developed by Sinchana
+
 
 ---
 
-**Note:** This project requires a MySQL database file for full functionality. Contact the developer for the complete database schema and sample data.
