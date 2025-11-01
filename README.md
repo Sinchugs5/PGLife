@@ -1,4 +1,4 @@
-# PGLife - Student Housing Management System
+# PGlife
 
 A comprehensive web-based platform for managing student housing (PG accommodations) with user authentication, property listings, and interest tracking.
 
@@ -31,16 +31,16 @@ A comprehensive web-based platform for managing student housing (PG accommodatio
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Sinchugs5/PGLife.git
-   cd PGLife
+   cd PGlife
    ```
 
 2. **Move to web server directory**
    ```bash
    # For XAMPP on Windows
-   copy * C:\xampp\htdocs\PGLife\
+   copy * C:\xampp\htdocs\PGlife\
    
    # For XAMPP on Linux/Mac
-   cp -r * /opt/lampp/htdocs/PGLife/
+   cp -r * /opt/lampp/htdocs/PGlife/
    ```
 
 3. **Start web server**
@@ -58,13 +58,13 @@ A comprehensive web-based platform for managing student housing (PG accommodatio
 
 6. **Access the application**
    ```
-   http://localhost/PGLife/
+   http://localhost/PGlife/
    ```
 
 ## Project Structure
 
 ```
-PGLife/
+PGlife/
 ├── api/                    # API endpoints
 │   ├── login_submit.php
 │   ├── signup_submit.php
